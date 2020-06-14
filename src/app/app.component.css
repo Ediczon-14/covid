@@ -1,0 +1,68 @@
+.text-platzi {
+    color: black !important;
+  }
+  
+  .btn-platzi {
+    background-color: rgb(66, 231, 121);
+    color: white;
+  }
+  
+  .btn-platzi:hover {
+    background-color: rgb(66, 231, 121);
+  }
+  
+  #header img {
+    width: 100px;
+  }
+  .img {
+    width: 50px;
+  }
+  
+  #main .carousel-inner img {
+    max-height: 120vh;
+    object-fit: cover;
+    filter: grayscale(100%);
+  }
+  
+  #carousel {
+    position: relative;
+  }
+  
+  #carousel .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+  }
+  
+  #carousel .overlay .container,
+  #carousel .overlay .row {
+    height: 100%;
+  }
+  
+  #place-time {
+    background-color: rgb(66, 231, 121);
+    color: white;
+  }
+  
+  #place-time img {
+    max-width: 100%;
+  }
+  
+  #footer {
+    background:rgb(24, 131, 60);
+  }
+  
+  #footer a {
+    color: black;
+  }
+  .x {
+    background:rgb(66, 231, 121);
+  }
+  .p
+  {
+      font-size: x-large;
+  }
